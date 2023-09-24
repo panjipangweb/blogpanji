@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/Post.astro'
 title: Berada di Persimpangan Jalan
-image: /images/freelance
+image: /images/jalanan
 publishedAt: "2023-09-24"
 category: 'Puisi'
 ---
