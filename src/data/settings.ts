@@ -1,6 +1,6 @@
 export const settings = {
   site: 'https://blogpanji.netlify.app/',
-  name: 'Panji Blog',
+  name: ' ',
   title: 'Site title',
   description: 'Site description',
   showLittleSticksPlug: true,
