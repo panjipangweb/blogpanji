@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Exploring Sigur Rós' "Ekki múkk" - A Magical Musical Journey
+title: From Melody to Metaphor: Sigur Rós' 'Ekki múkk' Unveiled
 image: /images/fox
 publishedAt: 2023-09-25
 category: 'Musik'
