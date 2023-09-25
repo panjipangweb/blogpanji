@@ -6,7 +6,7 @@ publishedAt: 2023-09-25
 category: 'Musik'
 ---
 
-Sigur Rós, an Icelandic rock band, took the world on a mesmerizing journey with their song "Ekki múkk," which graces their sixth studio album, Valtari. This song, and its accompanying video, offered a unique blend of music and storytelling that captivated audiences worldwide.
+Sigur Rós, an Icelandic post-rock band, took the world on a mesmerizing journey with their song "Ekki múkk," which graces their sixth studio album, Valtari. This song, and its accompanying video, offered a unique blend of music and storytelling that captivated audiences worldwide.
 
 On March 26, 2012, Sigur Rós unveiled "Ekki múkk" on their official website, along with a visually captivating music video. This marked the beginning of a magical odyssey through the British countryside, where viewers followed a man's quest to find his way back home. But what makes this music video special is how it turns the traditional format on its head.
 
