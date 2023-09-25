@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Olafur Arnalds - Music's Icelandic Journey Through Untamed Wilderness
+title: Olafur Arnalds' Musical Odyssey Across Iceland's Wilderness
 image: /images/olafur
 publishedAt: 2023-09-25
 category: 'Musik'
