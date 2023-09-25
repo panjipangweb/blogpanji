@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Ólafur Arnalds and Cercle's Amazing Show in Iceland's Wild Natur
+title: Olafur Arnalds: Music's Icelandic Journey Through Untamed Wilderness
 image: /images/olafur
 publishedAt: 2023-09-25
 category: 'Musik'
