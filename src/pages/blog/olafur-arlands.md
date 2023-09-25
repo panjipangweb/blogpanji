@@ -24,4 +24,4 @@ Arnalds has a special way of playing the piano. He uses felt material to soften 
 
 In 2013, Arnalds released "For Now I Am Winter," which featured the captivating vocals of pop singer Arnór Dan and grand string arrangements. It was a big step forward, but he didn't forget his intimate style, as heard in "Words of Amber."
 
-In summary, Ólafur Arnalds, the unassuming Icelander, has become a musical sensation. From a thrash metal drummer to a renowned composer, his unique journey is a testament to his endless creativity. With every composition, he continues to enchant audiences worldwide, leaving an indelible mark on the music world.
+Ólafur Arnalds, the unassuming Icelander, has become a musical sensation. From a thrash metal drummer to a renowned composer, his unique journey is a testament to his endless creativity. With every composition, he continues to enchant audiences worldwide, leaving an indelible mark on the music world.
