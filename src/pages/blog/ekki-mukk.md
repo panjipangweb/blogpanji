@@ -2,7 +2,7 @@
 layout: '../../layouts/Post.astro'
 title: From Melody to Metaphor - Sigur Rós' Ekki múkk Unveiled
 image: /images/fox
-publishedAt: 2023-09-25
+publishedAt: 2023-09-24
 category: 'Musik'
 ---
 
