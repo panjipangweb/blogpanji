@@ -2,7 +2,7 @@
 layout: '../../layouts/Post.astro'
 title: A Deep Dive into the Luis Diaz VAR Controversy
 image: /images/var
-publishedAt: 2023-07-19
+publishedAt: 2023-10-4
 category: 'Opini'
 ---
 In the ever-evolving world of football, where technology intertwines with tradition, decisions are scrutinized to the minutest detail. The Tottenham Hotspur vs. Liverpool Premier League match on a fateful Saturday evening served as a stark reminder of the unpredictability and drama that football can deliver. Amidst a backdrop of cheers, jeers, and nail-biting moments, a VAR decision emerged as the talking point of the evening.
