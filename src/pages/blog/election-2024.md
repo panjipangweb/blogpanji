@@ -5,7 +5,7 @@ image: /images/tugas-dan-wewenang-PPS
 publishedAt: 2023-12-5
 category: 'Opini'
 ---
-The 2024 Presidential and Vice Presidential Election in Indonesia has captivated the nation's attention with the emergence of three candidate pairs ready to compete. Anies Baswedan-Muhaimin Iskandar, Ganjar Pranowo-Mahfud MD, and Prabowo Subianto-Gibran Rakabuming Raka have been officially designated by the General Election Commission (KPU). Various surveys suggest a narrative that the 2024 Presidential Election may only take place in a single round, with the Prabowo-Gibran pair having the highest potential.
+The 2024 Election in Indonesia caught the nation's attention with the emergence of three candidate pairs ready to compete. Anies Baswedan-Muhaimin Iskandar, Ganjar Pranowo-Mahfud MD, and Prabowo Subianto-Gibran Rakabuming Raka have been officially designated by the General Election Commission (KPU). Various surveys suggest a narrative that the 2024 Presidential Election may only take place in a single round, with the Prabowo-Gibran pair having the highest potential.
 
 According to the one-round simulation results from the Populi Center, the electability of Prabowo-Gibran reaches 42.5 percent, surpassing the pairs of Ganjar-Mahfud (21.9 percent) and Anies-Cak Imin (18.4 percent). Similar results are also revealed by the Poltracking Indonesia survey, stating that Prabowo-Gibran has the potential to win in a single round if electability reaches 45 percent.
 
